@@ -1,6 +1,6 @@
 //#include "timer.h"
 #include "printf.h"
-#include "down25.h"
+#include "up25.h"
 
 module NodeControllerC {
 	uses {
